@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\blog"
+    "\\blog",
+    "\\mysite"
   ],
-  "SelectedNode": "\\blog\\models.py",
+  "SelectedNode": "\\requirements.txt",
   "PreviewInSolutionExplorer": false
 }
