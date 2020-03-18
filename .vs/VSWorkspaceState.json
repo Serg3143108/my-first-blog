@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\blog",
+    "\\blog\\templates",
+    "\\blog\\templates\\blog",
     "\\mysite"
   ],
-  "SelectedNode": "\\requirements.txt",
+  "SelectedNode": "\\blog\\templates\\blog\\post_list.html",
   "PreviewInSolutionExplorer": false
 }
